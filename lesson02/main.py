@@ -13,4 +13,14 @@ str_number = str(number)
 str_fraction = str(fracrion)
 print('Convert to string: ' + str_number + string + str_fraction)
 
+x = 10
+y = 7
+print(x + y)
+print(x * y)
+print(x / y)
+print(x ** y)
+print(x // y)
+print(x % y)
+
+
 print('\n--- End ---', end='\n'*4)
