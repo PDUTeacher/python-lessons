@@ -16,6 +16,7 @@ print('Convert to string: ' + str_number + string + str_fraction)
 x = 10
 y = 7
 print('\nx=%d, y=%d' %(x, y))
+
 print('Додавання x+y: ', x + y)
 print('Мноення x*y: ', x * y)
 print('Ділення: x/y', x / y)
