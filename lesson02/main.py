@@ -13,6 +13,8 @@ str_number = str(number)
 str_fraction = str(fracrion)
 print('Convert to string: ' + str_number + string + str_fraction)
 
+
+print('Математичні операції')
 x = 10
 y = 7
 print('\nx=%d, y=%d' %(x, y))
