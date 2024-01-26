@@ -15,12 +15,13 @@ print('Convert to string: ' + str_number + string + str_fraction)
 
 x = 10
 y = 7
-print(x + y)
-print(x * y)
-print(x / y)
-print(x ** y)
-print(x // y)
-print(x % y)
+print('\nx=%d, y=%d' %(x, y))
+print('Додавання x+y: ', x + y)
+print('Мноення x*y: ', x * y)
+print('Ділення: x/y', x / y)
+print('Підняття до степеня x^y: ', x ** y)
+print('Цілочисельне ділення x//y: ', x // y)
+print('Остача від цілочисельного ділення x%y: ', x % y)
 
 
 print('\n--- End ---', end='\n'*4)
