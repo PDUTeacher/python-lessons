@@ -16,6 +16,14 @@ print(f'Text {name}, Integer{num}')
 
 > print "Text"
 
+або
+
+> print(y)
+>
+
+Буде помилка, перед виведенням змінна має бути визначена   
+
+_NameError: name 'x' is not defined)_
 
 ### Введення даних
 
@@ -24,5 +32,7 @@ name = input('Введіть імя: ')
 
 age = int(input('Введіть ваш вік: '))
 
-nuber = float(input('Введіть дробове чсило: '))
+nuber = float(input('Введіть дробове чиcло: '))
 ```
+
+### Введення даних
