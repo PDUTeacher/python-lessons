@@ -1,29 +1,29 @@
-## Повторення
+# Повторення
 
-### Виведення даних
+## Виведення даних
 
-> print("Text")
+```hs 
+print("Text")
 
-> print('Text1', 'Text2', 123)
+print('Text1', 'Text2', 123)
 
-> print('Text: %s Number: %s' %('Text', 123))
+print('Text: %s Number: %d' %('Text', 123))
 
-> print(f'Text {name}, Integer{num}')
-
-__Помилка:__
-
-`print "Text"`
-
-
-### Введення даних
-
-> name = input('Введіть імя: ')
-
-> age = int(input('Введіть ваш вік: '))
-
-```Explictit 
-    print"text"
-    n = 12
-
+print(f'Text {name}, Integer{num}')
 ```
 
+__Так неправильно:__
+
+```hs
+print "Text"
+```
+
+## Введення даних
+
+```hs 
+name = input('Введіть імя: ')
+
+age = int(input('Введіть ваш вік: '))
+
+nuber = float(input('Введіть дробове чсило: '))
+```
