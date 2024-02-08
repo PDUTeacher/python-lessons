@@ -1,5 +1,5 @@
 ## Markdown Basic Syntax
-[MD Syntax](https://www.markdownguide.org/basic-syntax)
+[MD Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 **VS Code** supports Markdown files out of the box
 Markdown preview __Ctrl+Shift+V__

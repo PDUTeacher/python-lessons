@@ -1,5 +1,7 @@
 # Повторення
 
+[Markdown syntax](https://www.jetbrains.com/help/hub/markdown-syntax.html)
+
 ### 1. Виведення даних
 
 ```hs 
