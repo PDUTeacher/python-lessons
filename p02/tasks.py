@@ -65,10 +65,6 @@ V = 4.0/3.0 * pi * r**3
 # Print the calculated volume of the sphere
 print('The volume of the sphere is: ', V)
 
-# ---- 6
-# Знайти суму усіх парних і непраних чисел в діапазоні від (а) до (б)
-
-
 
 # ---- a.1
 # Write a Python program to find out what version of Python you are using.
